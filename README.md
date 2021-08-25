@@ -1,4 +1,4 @@
-Hello, I am Kshitija Hire and I am curruntly studying to be a Data Analyst. I'm enjoy using Python, R, Tableau and SQL for all things Data. 
+Hello, I am Kshitija Hire and I am curruntly studying to be a Data Analyst. I enjoy using Python, R, Tableau and SQL for all things Data. 
 
 
 <!---
